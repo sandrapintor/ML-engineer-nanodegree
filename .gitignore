@@ -1,4 +1,5 @@
 .ipynb_checkpoints
-**/cache
-**/_MACOSX
-data
+cache
+*MACOSX
+*pycache
+**data
